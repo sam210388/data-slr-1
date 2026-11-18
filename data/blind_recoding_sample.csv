@@ -13,7 +13,7 @@ study_no,sample_group,field,variable,first_pass_code_v10,blind_code,adjudicated_
 4,random,F12,explainability,not mentioned,not mentioned,not mentioned,agreement
 4,random,F13,explanations_evaluated,no,no,no,agreement
 5,random,F1,label_explanation,explained,explained,explained,agreement
-5,random,F2,circular_or_proxy_label,no,yes,no,"borderline, decided by first author"
+5,random,F2,circular_or_proxy_label,no,yes,yes,"borderline, decided by first author"
 5,random,F3,own_label_reliability_discussed,no,no,no,agreement
 5,random,F4,motivation_criticizes_rater_subjectivity,yes,no,yes,first pass upheld
 5,random,F5,data_source,survey/questionnaire,survey/questionnaire,survey/questionnaire,agreement
@@ -129,9 +129,9 @@ study_no,sample_group,field,variable,first_pass_code_v10,blind_code,adjudicated_
 53,random,F11,superiority_claim_without_numbers,no,no,no,agreement
 53,random,F12,explainability,not mentioned,not mentioned,not mentioned,agreement
 53,random,F13,explanations_evaluated,no,no,no,agreement
-93,added for rare codes,F1,label_explanation,partly explained,explained,partly explained,"borderline, decided by first author"
+93,added for rare codes,F1,label_explanation,partly explained,explained,explained,"borderline, decided by first author"
 93,added for rare codes,F2,circular_or_proxy_label,no,no,no,agreement
-93,added for rare codes,F3,own_label_reliability_discussed,yes,no,no,"borderline, decided by first author"
+93,added for rare codes,F3,own_label_reliability_discussed,yes,no,yes,"borderline, decided by first author"
 93,added for rare codes,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
 93,added for rare codes,F5,data_source,"real organization, named or placed","real organization, named or placed","real organization, named or placed",agreement
 93,added for rare codes,F6,validation_design,random hold-out split,"test set mentioned, formation not described",random hold-out split,"borderline, decided by first author"
@@ -151,7 +151,7 @@ study_no,sample_group,field,variable,first_pass_code_v10,blind_code,adjudicated_
 96,added for rare codes,F7,internal_inconsistency,clear,minor,clear,first pass upheld
 96,added for rare codes,F8,label_leakage_risk,no,yes,yes,blind code upheld
 96,added for rare codes,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
-96,added for rare codes,F10,bias_free_claim_without_measure,no,yes,yes,"borderline, decided by first author"
+96,added for rare codes,F10,bias_free_claim_without_measure,no,yes,no,"borderline, decided by first author"
 96,added for rare codes,F11,superiority_claim_without_numbers,yes,yes,yes,agreement
 96,added for rare codes,F12,explainability,proxy,not mentioned,not mentioned,blind code upheld
 96,added for rare codes,F13,explanations_evaluated,no,no,no,agreement
@@ -253,7 +253,7 @@ study_no,sample_group,field,variable,first_pass_code_v10,blind_code,adjudicated_
 253,random,F5,data_source,"real organization, named or placed","real organization, unnamed","real organization, named or placed",first pass upheld
 253,random,F6,validation_design,"test set mentioned, formation not described",not reported,"test set mentioned, formation not described",first pass upheld
 253,random,F7,internal_inconsistency,clear,none,clear,first pass upheld
-253,random,F8,label_leakage_risk,no,yes,no,"borderline, decided by first author"
+253,random,F8,label_leakage_risk,no,yes,yes,"borderline, decided by first author"
 253,random,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
 253,random,F10,bias_free_claim_without_measure,no,no,no,agreement
 253,random,F11,superiority_claim_without_numbers,no,no,no,agreement
