@@ -9,7 +9,7 @@ This repository holds the coding data behind the systematic review. Every percen
 | `data/studies.csv` | The 151 selected studies: title, first author, year, DOI, and whether they were coded from the full text (139) or are available only as an introduction (12, excluded from all percentages). |
 | `data/coding_v11.csv` | The final codes (version 11) for the 139 full-text studies on 13 variables in four analysis dimensions, with the supporting evidence for each code. |
 | `data/blind_recoding_sample.csv` | The reliability check: 20 studies × 13 variables, with the first-pass code, the blind re-code, the adjudicated code, and the verdict. |
-| `data/changes_v10_to_v11.csv` | The 96 codes changed after adjudication and after the re-check of error patterns, each with a verbatim quotation and page. |
+| `data/changes_v10_to_v11.csv` | The 102 codes changed after adjudication, after the re-check of error patterns, and after the evidence audit, each with a verbatim quotation and page. |
 | `CODEBOOK.md` | Definitions and decision rules for every variable and code. |
 
 ## Reproducing the main figures
@@ -31,7 +31,8 @@ any_flag.sum()                                     # 120 (86.3%)
 
 - **Evidence columns.** These contain verbatim quotations from the studies. Annotations that begin with `v9:`, `v11` or `v11 bukti` are coder notes added during re-verification, some written in Indonesian. Several quotations are joined with `||`.
 - **Full texts are not included.** Copyright stays with the publishers; use the DOI links in `studies.csv`.
-- **Nine studies coded from publisher web pages** were not re-checked in version 11 and keep their version 10 codes.
+- **Evidence audit.** For the 130 studies coded from PDFs, every code other than the default was checked automatically against the paper text: each has at least one quotation found in the text (exactly or approximately), or a transcription of the table or figure it rests on, marked `[isi tabel/gambar]`.
+- **Nine studies coded from publisher web pages** were not re-checked in version 11 and keep their version 10 codes. Their quotations could not be matched automatically, and two of their circular/proxy codes (studies 80 and 94) have no separate evidence.
 
 ## License
 
