@@ -9,7 +9,7 @@ This repository holds the coding data behind the systematic review. Every percen
 | `data/studies.csv` | The 151 selected studies: title, first author, year, DOI, and whether they were coded from the full text (139) or are available only as an introduction (12, excluded from all percentages). |
 | `data/coding_v11.csv` | The final codes (version 11) for the 139 full-text studies on 13 variables in four analysis dimensions, with the supporting evidence for each code. |
 | `data/blind_recoding_sample.csv` | The reliability check: 20 studies × 13 variables, with the first-pass code, the blind re-code, the adjudicated code, and the verdict. |
-| `data/changes_v10_to_v11.csv` | The 105 codes changed after adjudication, after the re-check of error patterns, and after the evidence audit, each with a verbatim quotation and page. |
+| `data/changes_v10_to_v11.csv` | The 106 codes changed after adjudication, after the re-check of error patterns, and after the evidence audit, each with a verbatim quotation and page. |
 | `CODEBOOK.md` | Definitions and decision rules for every variable and code. |
 
 ## Reproducing the main figures
@@ -31,8 +31,8 @@ any_flag.sum()                                     # 120 (86.3%)
 
 - **Evidence columns.** These contain verbatim quotations from the studies. Annotations that begin with `v9:`, `v11` or `v11 bukti` are coder notes added during re-verification, some written in Indonesian. Several quotations are joined with `||`.
 - **Full texts are not included.** Copyright stays with the publishers; use the DOI links in `studies.csv`.
-- **Evidence audit.** For the 138 studies whose full text is available as a PDF, every code other than the default was checked automatically against the paper text: each has at least one quotation found in the text (exactly or approximately), or a transcription of the table or figure it rests on, marked `[isi tabel/gambar]`.
-- **Studies first coded from publisher web pages.** Nine studies were coded from publisher web pages. For eight of them the PDF was obtained later, and their codes were re-checked and quoted from it. Study 95 keeps its version 10 codes, which could not be matched to a full text.
+- **Evidence audit.** For all 139 studies, every code other than the default was checked automatically against the paper text: each has at least one quotation found in the text (exactly or approximately), or a transcription of the table or figure it rests on, marked `[isi tabel/gambar]`.
+- **Studies first coded from publisher web pages.** Nine studies were coded from publisher web pages. The PDFs were obtained later for all nine, and their codes were re-checked and quoted from them.
 
 ## License
 
