@@ -1,0 +1,38 @@
+audit,seed,order,study_no,field,variable,code_checked,verdict,code_proposed_by_checker,code_after_adjudication,decided_at_utc,log_hash
+1,20261118,1,253,F1,label_explanation,partly explained,no match,explained,partly explained,2026-11-18T01:27:50+00:00,b9d7880ff2c3959b23879c22bd12a22d8ceafbd1c3b186b3c570b4bf42c086d3
+1,20261118,2,162,F1,label_explanation,explained,match,,explained,2026-11-18T01:29:27+00:00,9900cb6a14adb40ef7fdf6c282831f4d01998a72011781719fc4592b4f9e1b1b
+1,20261118,3,211,F1,label_explanation,explained,match,,explained,2026-11-18T01:47:53+00:00,01667fc285d7e7b6dc99c75b525ea16f03f8163b8cfceface3da671e7a21bec4
+1,20261118,4,96,F2,circular_or_proxy_label,yes,match,,yes,2026-11-18T01:48:33+00:00,f597b79ecd5f8af033b0588f8554f7e776e1238342b7e08e42aa8f22de411311
+1,20261118,5,136,F2,circular_or_proxy_label,yes,match,,yes,2026-11-18T01:49:13+00:00,4f627131818893452f1154fb01bddc69e4cfcab0531f7f7139e8f4822c4cafe0
+1,20261118,6,27,F2,circular_or_proxy_label,yes,match,,yes,2026-11-18T01:50:22+00:00,44b193b6fb35f942964746039e1470223f3aae358b6fec3783a48bc464d566b7
+1,20261118,7,7,F3,own_label_reliability_discussed,yes,match,,yes,2026-11-18T01:50:52+00:00,7b40e8d999e66dad570c20d7afe5b4966406764a4f522020db36456787fdf2b4
+1,20261118,8,162,F3,own_label_reliability_discussed,yes,no match,yes,no,2026-11-18T01:53:11+00:00,747fee7b88aeb49e2d47b9144f679871cb10a1d3a775628bcd60fab0c8f82104
+1,20261118,9,32,F3,own_label_reliability_discussed,yes,match,,yes,2026-11-18T01:53:36+00:00,50753da5da39ea37b586422ca4e912b09536e695f17f335268d3c131e8a81d35
+1,20261118,10,34,F4,motivation_criticizes_rater_subjectivity,yes,match,,yes,2026-11-18T01:53:46+00:00,b4152227c20ab0960a5c41d0fa619a67ad662eb6f9615b96b5e06ff815acb6c5
+1,20261118,11,15,F4,motivation_criticizes_rater_subjectivity,yes,match,,yes,2026-11-18T03:29:02+00:00,15f36bb659effebe24581392e25d8d925a1e0959cd26c8d2e94b6af43734524d
+1,20261118,12,63,F4,motivation_criticizes_rater_subjectivity,yes,match,,yes,2026-11-18T04:07:40+00:00,387a14a47d12c2495aaf0220fd4d00de269321643398de6db4031b2256d5242e
+1,20261118,13,207,F5,data_source,"real organization, unnamed",match,,"real organization, unnamed",2026-11-18T04:20:09+00:00,837072d561f883e1326fc272844dfa09f0565350732ca63679dd8df1320ec250
+1,20261118,14,103,F5,data_source,public benchmark dataset,match,,public benchmark dataset,2026-11-18T04:20:32+00:00,378ad6151b36f7c302050e8b6a9af61fd767637fe23abaf01765f699d60e94e4
+1,20261118,15,204,F5,data_source,synthetic/simulated,no match,"real organization, unnamed",not stated or unclear,2026-11-18T04:22:51+00:00,284b866d6d5168b8dfa831b7b51110d7a06cda78b363bfab22f921e838a696f5
+1,20261118,16,29,F6,validation_design,"test set mentioned, formation not described",match,,"test set mentioned, formation not described",2026-11-18T04:23:05+00:00,d101971877ed59e2651a0318dad2ca5fb66a75b7583c17b6c15a387889321fb5
+1,20261118,17,36,F6,validation_design,"test set mentioned, formation not described",match,,"test set mentioned, formation not described",2026-11-18T04:23:29+00:00,4ec2d3a3abf551632a60adbe23689cac074ff3efe6019768b30bd1e63108b1a6
+1,20261118,18,207,F6,validation_design,random hold-out split,match,,random hold-out split,2026-11-18T04:23:37+00:00,e80642ace02ceccb81a9869cbb8088ab279b82090f428a5ecd2e87b30191c781
+1,20261118,19,253,F7,internal_inconsistency,clear,match,,clear,2026-11-18T04:24:23+00:00,bdf6c184fe30270a7e1eca45a94bac5635cd62f16ceba4720adcce902f20334e
+1,20261118,20,1,F7,internal_inconsistency,clear,match,,clear,2026-11-18T04:25:56+00:00,06beb8fc762d87ed259d68c85cd197417963fe94a11788f91205e569cdbcf72b
+1,20261118,21,41,F7,internal_inconsistency,clear,match,,clear,2026-11-18T04:26:18+00:00,4037097fd7178133e474c04f2559267023f6ac43b7390815349a95d4550086cd
+1,20261118,22,143,F8,label_leakage_risk,yes,match,,yes,2026-11-18T04:30:51+00:00,561bd19f673c448e3d104210940d790f1e21bc55f38f04f721eca776ebd6afa5
+1,20261118,23,11,F8,label_leakage_risk,yes,match,,yes,2026-11-18T04:31:46+00:00,f871a62f1982d24bfc2570e6b9e32c37c765353e546969d9b8cd36c22fba4907
+1,20261118,24,99,F8,label_leakage_risk,yes,match,,yes,2026-11-18T04:32:06+00:00,ff64ab5994691100f5008163f6be360c1786ec469691fa500a4cb65a1a3a9359
+1,20261118,25,2,F9,accuracy_ge_0_99_without_discussion,yes,match,,yes,2026-11-18T04:32:17+00:00,fbc6558a8829627330aaecacb7e6a03d1d9850920067d3c0c6d42eeb09b08ea6
+1,20261118,26,44,F9,accuracy_ge_0_99_without_discussion,yes,match,,yes,2026-11-18T04:32:32+00:00,d435aff6d63e2bc2f75286440d1a0f65723d270ad0fabcc00d6fcd93f33cfeba
+1,20261118,27,50,F9,accuracy_ge_0_99_without_discussion,yes,match,,yes,2026-11-18T04:32:42+00:00,1fb32bb75b8a70b32cc0b5a7f904dc41c7a787c4ab04f63e640226dbd3a8f8d7
+1,20261118,28,171,F10,bias_free_claim_without_measure,yes,match,,yes,2026-11-18T04:32:58+00:00,fa01c8b4f926ef302d666869bc24da68d11349f00bb8d76cf1e90800aecbe7ee
+1,20261118,29,20,F10,bias_free_claim_without_measure,yes,match,,yes,2026-11-18T04:33:09+00:00,e4de176b07dfcbb2ec6d1f64bcd17f9fedfd0f4b6aaec8b7a4bfcb3dbeec9a95
+1,20261118,30,99,F10,bias_free_claim_without_measure,yes,match,,yes,2026-11-18T04:33:44+00:00,8c7879773c323dc33996e06ecef3804fcb9cd03a97b6f0bc80a35544177cc1fd
+1,20261118,31,171,F11,superiority_claim_without_numbers,yes,match,,yes,2026-11-18T04:33:54+00:00,8ed0cbf6c8aa136dc7436e59591a2bdc776a89909a18c3b1079f133a2e593094
+1,20261118,32,52,F11,superiority_claim_without_numbers,yes,match,,yes,2026-11-18T04:34:03+00:00,02967c9ae7c8b6b6af8b0f1fdc74e8468be45cda14f53068fa4a49a540487f48
+1,20261118,33,133,F11,superiority_claim_without_numbers,yes,match,,yes,2026-11-18T04:34:14+00:00,1c45f30b84f8c8dc7ff4cbd2f6a8679b20310fba92338ab8947c74a1681799fa
+1,20261118,34,28,F12,explainability,claimed without a method,match,,claimed without a method,2026-11-18T04:34:37+00:00,22c3176ed7528887ba38c34b57344fbd06759235e2a15c13b430f136763cdbd0
+1,20261118,35,76,F12,explainability,proxy,match,,proxy,2026-11-18T04:34:53+00:00,3a9b831aec658b54a00777a61f44c59e2e488b259227884311bd63e744233b7d
+1,20261118,36,82,F12,explainability,proxy,match,,proxy,2026-11-18T04:35:28+00:00,2c705af063c4977bd09e18d3da5a952a06f459f9c8b3431a896228bfdf82492d
+1,20261118,37,12,F13,explanations_evaluated,yes,match,,yes,2026-11-18T04:35:49+00:00,06dc088dd267caecec6c47acf17e4a77a9fb007d022b728ff6f2e1fc33d0509d
