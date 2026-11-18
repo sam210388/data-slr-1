@@ -1,0 +1,152 @@
+study_no,title,first_author,year,doi_or_url,full_text_basis
+1,Research on Employee Performance Prediction Model Based on Improved Long Short-Term Memory Network,Yao Y.,2025,https://doi.org/10.1109/NMITCON65824.2025.11188406,full-text PDF
+2,Empirical Assessment of Machine Learning-Driven Employee Performance Prediction Models in Modern HRM Systems,Balaji P.,2026,https://doi.org/10.1109/ICADCS70036.2026.11583699,full-text PDF
+3,AI-Driven Transparent Employee Performance Appraisal and Development Systems,Jeyaprabha B.,2025,https://doi.org/10.1109/ICCDS64403.2025.11209146,full-text PDF
+4,Machine learning­based approaches for enhancing human resource management using automated employee performance prediction systems,Uppal A.,2025,https://doi.org/10.1108/IJOA-07-2024-4643,full-text PDF
+5,Predictive Analysis of Employee Performance Using Machine Learning Techniques in IT Organizations,Prasanna Venkatesan V.S.,2025,https://doi.org/10.1109/SSITCON66133.2025.11342149,full-text PDF
+6,A Machine Learning Approach to Employee Performance Prediction within Administrative Information Systems,Ahmed A.K.,2023,https://doi.org/10.1109/ISAS60782.2023.10391817,full-text PDF
+7,Revisiting the Nature and Strength of the Personality–Job Performance Relations: New Insights From Interpretable Machine Learning,Song Q.C.,2024,https://doi.org/10.1037/apl0001218,full-text PDF
+8,Employee Performance Measurement Using Machine Learning Algorithms,Madaan V.,2024,https://doi.org/10.1109/ICTBIG64922.2024.10911748,full-text PDF
+9,Forecasting Employee Performance and Training Needs with HR Data,Jadhav R.A.,2025,https://doi.org/10.1109/PuneCon67554.2025.11378908,full-text PDF
+10,Design of an AI Adoption Based Machine Learning Model for Predicting Employee Performance in Indian Higher Education,Sivanarulselvan S.,2026,https://doi.org/10.1109/ICCPCT70290.2026.11654900,full-text PDF
+11,Optimizing Employee Performance Metrics: A Machine Learning-Based Decision Support System,Kaur M.,2026,https://doi.org/10.1007/978-3-032-24929-6_29,full-text PDF
+12,Self-Adaptive Genetic Boosted Explainable Framework for Employee Performance Classification,Tejaswini N.,2026,https://doi.org/10.1109/ICTMIM68190.2026.11507650,full-text PDF
+13,Hierarchical Attention Models for Predicting Detailed Employee Performance Trends,Pathi B.K.,2024,https://doi.org/10.1109/ICSTEM61137.2024.10560759,full-text PDF
+14,AI Based Behavioural Analytics Model for Workplace Performance Evaluations,Martina E.,2025,https://doi.org/10.1109/WCONF64849.2025.11233271,full-text PDF
+15,Artificial Intelligence in Performance Management: Toward Automated and Productive Workflows,Jyoti,2025,https://doi.org/10.1109/ICECONF65644.2025.11379505,full-text PDF
+16,Modeling the Impact of Person-Organization Fit on Talent Management With Structure-Aware Attentive Neural Networks,Sun Y.,2023,https://doi.org/10.1109/TKDE.2021.3115620,full-text PDF
+17,Data Visualization Intelligent Analysis Model in Human Resource Management,Wang L.,2025,https://doi.org/10.1109/ICIPCA65645.2025.11138196,full-text PDF
+18,"Jointly Predicting Job Performance, Personality, Cognitive Ability, Affect, and Well-Being",Robles-Granda P.,2021,https://doi.org/10.1109/MCI.2021.3061877,full-text PDF
+19,Research on Employee Performance Prediction Based on Machine Learning,Yuan J.,2022,https://doi.org/10.1109/ICET55676.2022.9824477,full-text PDF
+20,Multi-Stage Hybrid AI System for Employee Performance Prediction and Workforce Optimization,Mubashira Fathima A.,2026,https://doi.org/10.1109/ICCCES62661.2026.11436172,full-text PDF
+21,Enhancing Human Resource Management With Fuzzy Logic and Neural Networks for Personalized Performance Management,Rani M.B.,2026,https://doi.org/10.1109/CCIC68129.2026.11486118,full-text PDF
+22,A cloud-based LSTM–TabNet deep learning model for enhancing strategic HRM and employee performance prediction,Sareddy M.R.,2026,https://doi.org/10.1080/20421338.2026.2659629,full-text PDF
+23,Predicting Accurate Employee Performance: An Evaluation of Regression Models,Vijh G.,2025,https://doi.org/10.1016/j.procs.2025.03.345,full-text PDF
+24,"A simulation of the impacts of machine learning to combine psychometric employee selection system predictors on performance prediction, adverse impact, and number of dropped predictors",Landers R.N.,2023,https://doi.org/10.1111/peps.12587,full-text PDF
+26,CHAID Based Decision Tree for Intelligent Employee Performance Appraisal in Human Resource Management Systems,Mohan Prabhu S.,2026,https://doi.org/10.1109/AIEI69164.2026.11498063,full-text PDF
+27,Predicting Employee Performance in the Healthcare Industry Using Machine Learning Models: The Role of Artificial Intelligence Adoption,Sivanarulselvan S.,2025,https://doi.org/10.1109/IEMECON69302.2025.11365615,full-text PDF
+28,CareerForge-AI: Graph Neural Network for Predicting Employee Performance and Personalized Career Paths,Rajagukguk S.A.,2025,https://doi.org/10.1109/ISRITI68345.2025.11393226,full-text PDF
+29,Enhancing Proactive Talent Management in Private Banking with Machine Learning-Based Evaluation of Person-Organization Fit,Tyagi S.,2024,https://doi.org/10.1109/AECE62803.2024.10911308,full-text PDF
+30,Machine Learning-Driven Insights: Optimizing Employee Performance Through Advanced Analytics,Nithiyashree S.,2025,https://doi.org/10.1109/ICDSBS63635.2025.11031679,full-text PDF
+31,A machine learning based pipeline for predicting performance of call center operators,Oliveira E.L.,2026,https://doi.org/10.1016/j.sasc.2026.200484,full-text PDF
+32,Scoring Dimension-Level Job Performance From Narrative Comments: Validity and Generalizability When Using Natural Language Processing,Speer A.B.,2021,https://doi.org/10.1177/1094428120930815,full-text PDF
+34,Optimizing Human Resource Management in Financial Institutions based on XGBoost for Workforce Planning,Tan T.,2025,https://doi.org/10.1109/ICDCECE65353.2025.11035387,full-text PDF
+35,Impact of AI and ML on Employee Job Satisfaction and Performance,Shah A.,2024,https://doi.org/10.1109/ICSES63445.2024.10763153,full-text PDF
+36,Hybrid Transformer-CNN Model for Advanced HR Analytics: Improving Employee Engagement and Performance Prediction,Suresh M.L.,2025,https://doi.org/10.1109/MPCON66082.2025.11256608,full-text PDF
+38,Transforming HR with Machine Learning: Data-Driven Strategies for Talent Management,Sharma R.,2024,https://doi.org/10.1109/ASIANCON62057.2024.10837783,full-text PDF
+39,Predictive HR Analytics: Using Machine Learning to Forecast Workforce Trends and Needs,Angulakshmi M.,2024,https://doi.org/10.1109/IC3I61595.2024.10829013,full-text PDF
+40,Generalized fuzzy logic based performance prediction in data mining,Santhosh R.,2021,https://doi.org/10.1016/j.matpr.2020.08.626,full-text PDF
+41,Deep Learning-Based Performance Evaluation System for Workforce Productivity,Dharmananda M.,2025,https://doi.org/10.1109/ICECONF65644.2025.11379474,full-text PDF
+42,Optimizing Workforce Efficiency Using an Artificial Intelligence Approach: A Next-Gen HR Management System,Chanda P.,2024,https://doi.org/10.1109/ICETSIS61505.2024.10459590,full-text PDF
+44,Enhancing Organizational Efficiency with Machine Learning-Based Human Resource Information System,Gupta M.,2025,https://doi.org/10.1109/ICMCTC62214.2025.11196166,full-text PDF
+45,Big Data Analysis in Human Resources Management: Performance Prediction Based on Employee Network,Yuan J.,2022,https://doi.org/10.1109/ICAIBD55127.2022.9820294,full-text PDF
+46,Deep Q-Network-Based Agent Learning for Employee Performance Prediction in Industrial Environments,Jaganathan A.P.,2025,https://doi.org/10.1109/AIIoT65859.2025.11105331,full-text PDF
+50,AI-Powered Performance Management: Machine Learning Approaches for Employee Evaluation and Development,Krishna C.B.,2025,https://doi.org/10.1109/CE2CT64011.2025.10941514,full-text PDF
+51,Predicting Employee Performance using Machine Learning to Enhance Workforce Efficiency,Talpur N.,2024,https://doi.org/10.1109/ICCUBEA61740.2024.10774749,full-text PDF
+52,Enhancing Field Employee Productivity and Performance with Android Software Solution and Machine Learning-based Predictive Analytic Model,Chilamkurthi V.,2024,https://doi.org/10.1109/ICMCSI61536.2024.00054,full-text PDF
+53,"High-speed train drivers’ operation performance: Key factors, models, and management implications",Wang Z.,2023,https://doi.org/10.1016/j.ergon.2023.103482,full-text PDF
+56,Measuring the Effects of Employee Face-To-Face interactions on their Productivity Through IR Badges,Marri A.A.,2023,https://doi.org/10.1109/ICISCoIS56541.2023.10100583,full-text PDF
+58,Using Natural Language Processing and Blockchain for Employee Performance Evaluation,Prasad U.,2023,https://doi.org/10.1109/ICACITE57410.2023.10182524,full-text PDF
+60,Smart Workforce: Enhancing Employee Productivity with Real-Time Data Analytics,Ragavee U.,2024,https://doi.org/10.1109/I-SMAC61858.2024.10714851,full-text PDF
+61,"An Ensemble of Stacked Classifiers with Optimization Framework—Optuna, Interpreted with XAI—SHAP to Predict Employees’ Performance Ratings Using IBM HR Analytics",Philomine Roseline T.,2026,https://doi.org/10.1007/978-3-032-07220-7_96,full-text PDF
+63,Using Natural Language Processing for Biometric Identification Optimizatoin,Kumar B.,2023,https://doi.org/10.1109/ICACITE57410.2023.10182448,full-text PDF
+75,Unbiased employee performance evaluation using machine learning,Nayem Z.,2024,https://doi.org/10.1016/j.joitmc.2024.100243,publisher web page
+76,AN ENSEMBLE FRAMEWORK OF STACKED MULTI REGRESSORS AND GRADIENT BOOSTING ALGORITHMS WITH TUNED HYPER PARAMETERS – ENSTAR TO PREDICT EMPLOYEE PERFORMANCE SCORE USING HR ANALYTICS,Philomine R.T.,2025,https://doi.org/10.12732/ijam.v38i3s.146,full-text PDF
+77,Data Analytics for Optimizing and Predicting Employee Performance,Tanasescu L.G.,2024,https://doi.org/10.3390/app14083254,publisher web page
+78,RanKer: An AI-Based Employee-Performance Classification Scheme to Rank and Identify Low Performers,Patel K.,2022,https://doi.org/10.3390/math10193714,publisher web page
+79,Enhancing Enterprise Human Resource Management Through Intelligent Strategies Using Hybrid Deep Learning Models; [Mejorar la gestión de recursos humanos empresariales mediante estrategias inteligentes utilizando modelos híbridos de aprendizaje profundo],John Paul M.,2025,https://doi.org/10.62486/agma2025170,full-text PDF
+80,Dynamic Workload Management System in the Public Sector: A Comparative Analysis,Giotopoulos K.C.,2025,https://doi.org/10.3390/fi17030119,publisher web page
+81,Employee Performance Prediction in Human Resource Management Using Gradient Boosting Machines (GBM),Sheeja V.S.,2026,https://doi.org/10.51483/IJAIML.6.2s.2026.269-278,full-text PDF
+82,AI-Driven Textual Feedback Analysis in E-Training Using Enhanced RoBERTa,Alotaibi R.S.,2025,https://doi.org/10.14569/IJACSA.2025.0160727,full-text PDF
+83,Employee Performance Prediction Model Based on BP Neural Networks,Song H.,2025,https://doi.org/10.1145/3736426.3736471,introduction only (excluded from percentages)
+84,A Hybrid PCA–Random Forest Model for Predicting Employee Performance from Work Ethics and Work Values,Arquillano N.E.,2026,https://doi.org/10.14569/IJACSA.2026.0170548,full-text PDF
+85,ANN-Based Employee Performance Prediction: A Comparative Analysis of Optimization Techniques,Bajhzer R.M.,2026,https://doi.org/10.14569/IJACSA.2026.0170398,full-text PDF
+86,Employee performance evaluation model based on BP neural network,Qi Z.,2025,https://doi.org/10.1145/3727353.3727404,introduction only (excluded from percentages)
+87,Application of Machine Learning in Human Resources Management: Research on Employee Performance Prediction Model,Liu Y.,2024,https://doi.org/10.1145/3686081.3686102,introduction only (excluded from percentages)
+88,Employee Performance Group Identification and Pattern Analysis Based on Cluster Analysis and Feature Mining,Ren G.,2026,https://doi.org/10.1145/3789297.3789365,introduction only (excluded from percentages)
+89,Deep Learning-Based Intelligent Decision-Making and Organizational Behavior Prediction for Enterprise Human Resource Management,Chen S.,2026,https://doi.org/10.1145/3797161.3797206,introduction only (excluded from percentages)
+90,Research On Employee Performance Evaluation Based On Information Gain And Bagging Ensemble Learning Algorithm,Wang J.,2026,https://doi.org/10.6180/jase.202605_29(5).0007,introduction only (excluded from percentages)
+91,A Scalable Machine Learning Framework for Predictive Analytics and Employee Performance Enhancement in Large Enterprises,Kanwar J.S.,2025,https://doi.org/10.14569/IJACSA.2025.0160867,full-text PDF
+92,An innovative data mining approach to predicting employee performance in dynamic workplaces,Singh V.K.,2025,https://doi.org/10.31893/multiscience.2025ss0204,full-text PDF
+93,Enhancing employee performance appraisal through optimized association rule algorithms: a data mining approach,Wang J.,2024,https://doi.org/10.1038/s41598-024-77553-w,full-text PDF
+94,A Predictive Framework for Sustainable Human Resource Management Using tNPS-Driven Machine Learning Models,Ramasamy R.K.,2025,https://doi.org/10.3390/su17135882,publisher web page
+95,Artificial intelligent-enhanced federated approach for employee performance evaluation using multimodal data,Zhang L.,2026,https://doi.org/10.1007/s10791-026-10301-y,publisher web page
+96,Computational Modeling Using Linear Regression and Random Forest to Analyze the Impact of Workload on Employee Performance Evaluations,Jaya S.,2025,https://doi.org/10.18280/ijcmem.130202,full-text PDF
+97,Data Mining Techniques to Predict High Leadership Promotion of Civil Servants in Indonesia Based on Talent Pool Assessments,Kusumaningtyas D.P.,2023,https://doi.org/10.33168/JSMS.2023.0620,full-text PDF
+98,Enhancing employee performance assessments through the integration of artificial and emotional intelligence,Rathore A.,2025,https://doi.org/10.31893/multiscience.2025ss0206,full-text PDF
+99,Optimizing employee performance forecasting: A data-driven approach to workforce development,Hota H.N.,2025,https://doi.org/10.31893/multiscience.2025ss0208,full-text PDF
+100,Research on the construction and optimization of personnel performance evaluation system in power enterprises based on big data and artificial intelligence,Yao Z.,2025,https://doi.org/10.1145/3724154.3724228,introduction only (excluded from percentages)
+101,Research on Employee Performance Management Method Based on Big Data Improvement GWO-DELM Algorithms,Wang Z.,2024,https://doi.org/10.4108/eetsis.4916,full-text PDF
+102,Enterprise Human Resource Management Based on Big Data Mining Technology,Shuangrong Diao,2026,https://doi.org/10.1145/3821966.3822072,introduction only (excluded from percentages)
+103,A Combined Approach for Predicting Employees’ Productivity based on Ensemble Machine Learning Methods,Obiedat R.,2022,https://doi.org/10.31449/inf.v46i5.3839,full-text PDF
+104,Grasshopper KUWAHARA and Gradient Boosting Tree for Optimal Features Classifications,Aly R.H.M.,2022,https://doi.org/10.32604/cmc.2022.025862,full-text PDF
+105,A Mobile Graph Neural Network Framework for Organizational Structure Modeling and Employee Performance and Turnover Analysis,Hanafiah M.H.,2026,https://doi.org/10.3991/ijim.v20i07.61241,full-text PDF
+106,RCCNet: A Spatial-Temporal Neural Network Model for Logistics Delivery Timely Rate Prediction,Yi J.,2024,https://doi.org/10.1145/3690649,introduction only (excluded from percentages)
+107,Enhancing workplace productivity with secure AI using federated contrastive learning model for performance optimization,Maya G.,2025,https://doi.org/10.1038/s41598-025-25153-7,publisher web page
+108,Application research and effectiveness evaluation mechanism of hybrid intelligent algorithm integrating cognitive computing and deep learning for dynamically adjusting employee performance evaluation in multi-scale organizational networks,Luo Z.,2025,https://doi.org/10.1007/s44163-025-00285-x,publisher web page
+109,Developing an intelligent decision support system for enhancing human resource management practices,Singh T.,2025,https://doi.org/10.31893/multiscience.2025ss0210,full-text PDF
+110,Dynamic Employee Performance Evaluation Method Based on Reinforcement Learning,FengZe Li,2026,https://doi.org/10.1145/3801438.3801692,introduction only (excluded from percentages)
+111,GenWorkBalanceNet: A Hybrid Generative AI-Deep Learning Model for Work-Life Balance-Driven Productivity Prediction in IT Workforces,Swamy C.J.,2025,https://doi.org/10.48084/etasr.13651,full-text PDF
+112,Evaluating Employee Performance with an Improved Clustering Algorithm,Fan C.,2022,https://doi.org/10.31449/inf.v46i5.4079,full-text PDF
+113,Enhancing Employee Performance Management: A Data-Driven Decision Support Model using Machine Learning Algorithms,Mourad Z.,2024,https://doi.org/10.14569/IJACSA.2024.01503100,full-text PDF
+114,Research on Talent Management and Human Resource Planning Integrating Artificial Intelligence and Big Data,Chunsun He,2025,https://doi.org/10.1145/3778450.3778477,introduction only (excluded from percentages)
+115,Research on Job Allocation and Performance Prediction Method Based on TS-BP Algorithm,Sun J.,2026,https://doi.org/10.1145/3788910.3788933,introduction only (excluded from percentages)
+116,A Telecommuting Experience Service Design Decision Model Based on BP Neural Network,Wang W.,2022,https://doi.org/10.2147/PRBM.S386089,publisher web page
+117,Design of an Intelligent Human Resource Management Platform Based on Data Mining and Privacy Computing,Yumei Ma,2025,https://doi.org/10.1145/3778534.3778569,full-text PDF
+129,Hybrid of K-means clustering and naive Bayes classifier for predicting performance of an employee,Fadhil Z.M.,2021,https://doi.org/10.21533/pen.v9i2.1898,full-text PDF
+130,Research on Enterprise Employee Performance Optimization and Management Strategies Based on Big Data Analysis,Li J.,2026,https://doi.org/10.3233/FAIA260424,full-text PDF
+132,Harnessing Structural Equation Modelling Based Synthetic Data with Artificial Intelligence on Employee Performance Prediction Model in Multinational Organisations,Sakka F.,2025,https://doi.org/10.47857/irjms.2025.v06i02.02870,full-text PDF
+133,The Impact of Improving Employee Psychological Empowerment and Job Performance Based on Deep Learning and Artificial Intelligence,,2023,https://doi.org/10.4018/JOEUC.321639,full-text PDF
+134,An Ensemble Classification and Regression Neural Network for Evaluating Role-based Tasks Associated with Organizational Unit,Alrashedi A.,2022,https://doi.org/10.14201/adcaij.26764,full-text PDF
+136,Research on the Enhancing Effect of Artificial Intelligence and Machine Learning on the Productivity of Remote Workers; [Investigación sobre el efecto potenciador de la inteligencia artificial y el aprendizaje automático en la productividad de los trabajadores remotos],Chen S.,2025,https://doi.org/10.56294/hl2025658,full-text PDF
+137,Human Resources Analysis Based on Machine Learning,Guo N.,2023,https://doi.org/10.1145/3640115.3640191,full-text PDF
+138,The Use of the Analytic Hierarchy Process in Improving Psychological Empowerment and Employee Performance,Gao Q.,2023,https://doi.org/10.4018/JOEUC.321171,full-text PDF
+139,Research on Behavior Prediction Based on Deep Learning - Take Chengdu Economic Innovation Enterprise as an Example,Jia Y.,2021,https://doi.org/10.1051/e3sconf/202127503060,full-text PDF
+141,Construction of Risk Prediction Models for Enterprise Finance Sharing Operations Using K-Means and C4.5 Algorithms,Pan C.,2024,https://doi.org/10.1007/s44196-024-00608-3,full-text PDF
+143,AI-Driven Service Industry Employee Behavior Prediction and Performance Optimization: Evidence From the Banking Industry,Wei J.,2026,https://doi.org/10.4018/JOEUC.406730,full-text PDF
+152,The Hybrid Machine Learning-Based Decisionmaking Approach to Predict Employee Performance,Subramani P.,2025,https://doi.org/10.1109/UEMCON67449.2025.11267538,full-text PDF
+153,Comparative Study on Employee Performance Prediction Using Machine Learning Approaches,Wang F.,2025,https://doi.org/10.1109/IMCEC66174.2025.11332158,full-text PDF
+154,Automated Feature Engineering for Enhanced Employee Performance Prediction: A Machine Learning Approach,Suryabalaji D.,2024,https://doi.org/10.1109/UPCON62832.2024.10983315,full-text PDF
+156,AI-Driven Employee Performance Prediction in the Public Sector with GAs and SHAP Interpretability,Alsobaey T.M.,2025,https://doi.org/10.1109/ICCCE66530.2025.11474052,full-text PDF
+157,Evaluating Employee Performance: A Comparative Analysis of SVM and Decision Tree Models,Bisht B.,2025,https://doi.org/10.1109/IC2NC67409.2025.11376241,full-text PDF
+158,Employee Performance Prediction: An Integrated Approach of Hybrid Improved LA-CNN-SVM-BiLSTM Model,Donthu S.,2024,https://doi.org/10.1109/IACIS61494.2024.10721887,full-text PDF
+159,Artificial Intelligence enabled Employee Performance Prediction using Comprehensive Learning Metrics,Gururamasenthilvel P.,2023,https://doi.org/10.1109/ACCAI58221.2023.10201125,full-text PDF
+162,"Measurement Specificity With Modern Methods: Using Dimensions, Facets, and Items From Personality Assessments to Predict Performance",Speer A.B.,2022,https://doi.org/10.1037/apl0000618,full-text PDF
+163,Cross-Company Evaluation of ML Algorithms for Employee Performance Forecasting,Nashwan S.,2025,https://doi.org/10.1109/ACIT68900.2025.11510609,full-text PDF
+164,Supervised Learning in Employee Performance Prediction,Manoharan G.,2024,https://doi.org/10.1109/ACOIT62457.2024.10940050,full-text PDF
+165,Employee Performance Prediction for Workforce Planning using Ensemble Hybrid Model,Dhivya R.S.,2023,,full-text PDF
+166,Ensemble Learning Framework to Predict the Employee Performance,Sujatha P.,2022,https://doi.org/10.1109/ICPC2T53885.2022.9777078,full-text PDF
+169,Deep Neural Network-Ant Colony Optimization Hybrid Model for Predictive HRM Analytics in Recruitment and Performance Enhancement,Bhakuni S.,2025,https://doi.org/10.1109/ACOIT66109.2025.11436580,full-text PDF
+170,Hybrid Deep Learning Ensemble Framework for Intelligent Human-Capital Performance Optimization in Enterprise Management Systems,Shaqqour O.F.,2026,https://doi.org/10.1109/QPAIN69676.2026.11546551,full-text PDF
+171,Deep Learning-Powered HRM: Ethical Performance Evaluation for Modern Workforces,Suryabalaji D.,2025,https://doi.org/10.1109/ICETI4T63625.2025.11132257,full-text PDF
+177,Towards a new method for classifying employee performance using machine learning algorithms,Mourad Z.,2022,https://doi.org/10.1109/ISCV54655.2022.9806118,full-text PDF
+179,AI-Powered Employee Performance Evaluation Systems in HR Management,Sampath K.,2024,https://doi.org/10.1109/ICCPCT61902.2024.10673159,full-text PDF
+180,A Performance Key Features Analysis Model Based on Corporate Sustainability Micro-foundation and Machine Learning: An Empirical Study of the Fast Fashion Manufacturing Industry,Chou W.-C.,2024,https://doi.org/10.6186/IJIMS.202403_35(1).0002,full-text PDF
+182,HYWIRE: A Cognitive Multimodal AI Framework for Anticipatory Workforce Intelligence in Hybrid Ecosystems,Dubey R.,2026,https://doi.org/10.1109/CICN70047.2026.11594148,full-text PDF
+183,Innovations In Hr Analytics By Using Swarm Based Ann For Employee Performance Prediction,Veerapaneni M.L.,2024,https://doi.org/10.1109/ICCCNT61001.2024.10724870,full-text PDF
+184,Enhancing Employee Productivity Prediction: A CNN-GRU Approach to Workstation Activity Analysis,Singla L.,2025,https://doi.org/10.1109/CONIT65521.2025.11167253,full-text PDF
+185,Enhancing Workforce Management through Self-Supervised Learning and Reinforcement Learning for Productivity Prediction,Singla L.,2025,https://doi.org/10.1109/AISummit66170.2025.11410674,full-text PDF
+186,The Effect of Prediction on Employee Engagement Organizational Commitment and Employee Performance Using Denoised Auto Encoder and SVM Based Model,Manavadaria M.S.,2024,https://doi.org/10.1109/IACIS61494.2024.10721902,full-text PDF
+190,The Impact of Innovative Artificial Intelligence Technologies in Talent Acquisition,Umamaheswari M.,2024,https://doi.org/10.1109/ICACRS62842.2024.10841514,full-text PDF
+194,Deep Learning-Enabled Human Resource Analytics in Predicting Employee Performance,Deepthi P.,2024,https://doi.org/10.1109/ICONSTEM60960.2024.10568716,full-text PDF
+196,Explainable AI for Organizational Behavior Insights: Enhancing Transparency in Employee Productivity Prediction,Ahmed M.T.,2026,https://doi.org/10.1109/QPAIN69676.2026.11546592,full-text PDF
+197,An Attention Neural Networks Based Performance Evaluation Method for Employees,Yang H.,2025,https://doi.org/10.1109/ICICR65456.2025.00142,full-text PDF
+198,"A Decentralized Employee Performance Appraisal Framework for Recruitment, Performance Prediction and Ranking using Permissioned Blockchain and Machine Learning",Anjum A.A.,2022,https://doi.org/10.1109/CSDE56538.2022.10089340,full-text PDF
+201,Recurrent Neural Infrastructure and Enhanced Approach for Employee Performance Analysis,Vennila Fathima Rani S.,2026,https://doi.org/10.1109/ICVADV67766.2026.11470423,full-text PDF
+202,AI-Driven Approach for Employee Performance Prediction Using Ensemble Machine Learning Models,Umamaheswari M.,2026,https://doi.org/10.1109/ICMLAS67792.2026.11483933,full-text PDF
+203,Enhancing Employee Productivity Prediction through Self-Supervised Learning and Reinforcement Learning,Goyal R.,2025,https://doi.org/10.1109/ICOCT64433.2025.11118832,full-text PDF
+204,Reinforcement Learning-Optimized Performance Evaluation Framework for Remote Workforce,Cherian E.,2025,https://doi.org/10.1109/ICRISET64803.2025.11252494,full-text PDF
+207,AI-Assisted Decision Support System for Strategic Human Resource Management,Malik N.,2026,https://doi.org/10.1109/OTCON69332.2026.11629831,full-text PDF
+209,What Educator Applicants’ Short Essays Tell You about Their Potential Job Fit and Performance,Liu Y.,2025,https://doi.org/10.3138/jehr-2023-0066,full-text PDF
+211,Influence of Workplace Surveillance on Employee Performance Management: A Study in the IT Sector of Chennai,Balagangadaran B.G.,2025,https://doi.org/10.1109/IC-EETA66496.2025.11548369,full-text PDF
+212,"The Good, the Bad, and the Unhirable: Recommending Job Applicants in Online Labor Markets",Kokkodis M.,2023,https://doi.org/10.1287/MNSC.2023.4690,full-text PDF
+213,Experimental Evaluation of Staff Ability and Performance Based on Depression Level Analysis Using Machine Learning Principle,Anitha G.,2024,https://doi.org/10.1109/ICETEMS64039.2024.10965012,full-text PDF
+214,Efficient Optimization of Neural Networks for Predictive Hiring : An In-Depth Approach to Stochastic Gradient Descent,Yassine T.K.,2024,https://doi.org/10.1145/3670105.3670208,full-text PDF
+216,Enhancing HR Analytics Using DNN-SVM Hybrid Model: A Strategic Approach to Decision-Making,Sumidha E.,2025,https://doi.org/10.1109/NETCRYPT65877.2025.11102350,full-text PDF
+217,Optimizing Job Rotation through Biorhythm Analysis and Artificial Neural Network (ANN) Methodology,Safaiyan P.,2025,https://doi.org/10.22059/ijms.2024.374861.676686,full-text PDF
+218,A Method Leveraging AI to Forecast Employee Performance during Work Hours and Propose Appropriate Salary Adjustments,Sharma K.,2024,https://doi.org/10.1109/ACCAI61061.2024.10601739,full-text PDF
+219,Optimizing Sustainable Human Resource Management through AI-Driven Predictive Analytics and Data-Driven Decision Models,Miglani N.S.,2025,https://doi.org/10.1109/InCACCT65424.2025.11011407,full-text PDF
+220,Optimization of business management model based on decision tree model,Chen H.,2022,https://doi.org/10.1145/3588340.3588555,full-text PDF
+253,Employee performance prediction using different supervised classifiers,Li M.G.T.,2021,https://doi.org/10.1111/joop.70087,full-text PDF
+254,INDUSTRIAL WORKERS’ EFFICIENCY IN INDIAN SUBCONTINENT: A MACHINE LEARNING MODEL APPROACH; [EFFICACITÉ DES TRAVAILLEURS DANS L’INDUSTRIE DU SOUS-CONTINENT INDIEN: UNE APPROCHE DE MODÈLE D'APPRENTISSAGE AUTOMATIQUE]; [EFICIENȚA LUCRĂTORILOR DIN INDUSTRIA SUBCONTINENTULUI INDIAN: O ABORDARE A MODELULUI DE ÎNVĂȚARE AUTOMATIZATĂ],Sadik S.,2024,https://doi.org/10.24264/lfj.24.4.4,full-text PDF
+255,Machine Learning Algorithm for Work from Home Analysis during Epidemic (2022),Babshetti V.,2022,https://doi.org/10.1186/s12891-022-05011-7,full-text PDF

@@ -1,0 +1,261 @@
+study_no,sample_group,field,variable,first_pass_code_v10,blind_code,adjudicated_code,verdict
+4,random,F1,label_explanation,not explained,not explained,not explained,agreement
+4,random,F2,circular_or_proxy_label,no,no,no,agreement
+4,random,F3,own_label_reliability_discussed,no,no,no,agreement
+4,random,F4,motivation_criticizes_rater_subjectivity,yes,no,yes,first pass upheld
+4,random,F5,data_source,not stated or unclear,public benchmark dataset,public benchmark dataset,blind code upheld
+4,random,F6,validation_design,random hold-out split,random hold-out split,random hold-out split,agreement
+4,random,F7,internal_inconsistency,clear,clear,clear,agreement
+4,random,F8,label_leakage_risk,no,no,no,agreement
+4,random,F9,accuracy_ge_0_99_without_discussion,yes,no,yes,first pass upheld
+4,random,F10,bias_free_claim_without_measure,yes,no,no,blind code upheld
+4,random,F11,superiority_claim_without_numbers,no,yes,yes,"borderline, decided by first author"
+4,random,F12,explainability,not mentioned,not mentioned,not mentioned,agreement
+4,random,F13,explanations_evaluated,no,no,no,agreement
+5,random,F1,label_explanation,explained,explained,explained,agreement
+5,random,F2,circular_or_proxy_label,no,yes,no,"borderline, decided by first author"
+5,random,F3,own_label_reliability_discussed,no,no,no,agreement
+5,random,F4,motivation_criticizes_rater_subjectivity,yes,no,yes,first pass upheld
+5,random,F5,data_source,survey/questionnaire,survey/questionnaire,survey/questionnaire,agreement
+5,random,F6,validation_design,"test set mentioned, formation not described",not reported,"test set mentioned, formation not described",first pass upheld
+5,random,F7,internal_inconsistency,clear,none,clear,first pass upheld
+5,random,F8,label_leakage_risk,no,no,no,agreement
+5,random,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+5,random,F10,bias_free_claim_without_measure,no,yes,yes,blind code upheld
+5,random,F11,superiority_claim_without_numbers,no,yes,no,"borderline, decided by first author"
+5,random,F12,explainability,not mentioned,proxy,proxy,blind code upheld
+5,random,F13,explanations_evaluated,no,no,no,agreement
+8,random,F1,label_explanation,not explained,not explained,not explained,agreement
+8,random,F2,circular_or_proxy_label,no,no,no,agreement
+8,random,F3,own_label_reliability_discussed,no,no,no,agreement
+8,random,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+8,random,F5,data_source,public benchmark dataset,public benchmark dataset,public benchmark dataset,agreement
+8,random,F6,validation_design,"test set mentioned, formation not described","test set mentioned, formation not described","test set mentioned, formation not described",agreement
+8,random,F7,internal_inconsistency,minor,none,minor,"borderline, decided by first author"
+8,random,F8,label_leakage_risk,no,no,no,agreement
+8,random,F9,accuracy_ge_0_99_without_discussion,no,yes,no,first pass upheld
+8,random,F10,bias_free_claim_without_measure,yes,no,no,blind code upheld
+8,random,F11,superiority_claim_without_numbers,no,no,no,agreement
+8,random,F12,explainability,not mentioned,not mentioned,not mentioned,agreement
+8,random,F13,explanations_evaluated,no,no,no,agreement
+14,random,F1,label_explanation,not explained,partly explained,not explained,first pass upheld
+14,random,F2,circular_or_proxy_label,no,yes,no,first pass upheld
+14,random,F3,own_label_reliability_discussed,no,yes,no,first pass upheld
+14,random,F4,motivation_criticizes_rater_subjectivity,yes,yes,yes,agreement
+14,random,F5,data_source,public benchmark dataset,public benchmark dataset,public benchmark dataset,agreement
+14,random,F6,validation_design,hold-out split + cross-validation,hold-out split + cross-validation,hold-out split + cross-validation,agreement
+14,random,F7,internal_inconsistency,clear,none,clear,first pass upheld
+14,random,F8,label_leakage_risk,no,no,no,agreement
+14,random,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+14,random,F10,bias_free_claim_without_measure,yes,no,yes,first pass upheld
+14,random,F11,superiority_claim_without_numbers,no,no,no,agreement
+14,random,F12,explainability,formal method output,formal method output,formal method output,agreement
+14,random,F13,explanations_evaluated,no,no,no,agreement
+16,added for rare codes,F1,label_explanation,explained,explained,explained,agreement
+16,added for rare codes,F2,circular_or_proxy_label,no,no,no,agreement
+16,added for rare codes,F3,own_label_reliability_discussed,yes,no,yes,first pass upheld
+16,added for rare codes,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+16,added for rare codes,F5,data_source,"real organization, unnamed","real organization, unnamed","real organization, unnamed",agreement
+16,added for rare codes,F6,validation_design,temporal validation,random hold-out split,temporal validation,first pass upheld
+16,added for rare codes,F7,internal_inconsistency,none,none,none,agreement
+16,added for rare codes,F8,label_leakage_risk,no,no,no,agreement
+16,added for rare codes,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+16,added for rare codes,F10,bias_free_claim_without_measure,no,no,no,agreement
+16,added for rare codes,F11,superiority_claim_without_numbers,no,no,no,agreement
+16,added for rare codes,F12,explainability,not mentioned,not mentioned,not mentioned,agreement
+16,added for rare codes,F13,explanations_evaluated,no,no,no,agreement
+17,random,F1,label_explanation,partly explained,partly explained,partly explained,agreement
+17,random,F2,circular_or_proxy_label,no,no,no,agreement
+17,random,F3,own_label_reliability_discussed,no,no,no,agreement
+17,random,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+17,random,F5,data_source,"real organization, unnamed","real organization, unnamed","real organization, unnamed",agreement
+17,random,F6,validation_design,random hold-out split,hold-out split + cross-validation,random hold-out split,first pass upheld
+17,random,F7,internal_inconsistency,none,minor,none,first pass upheld
+17,random,F8,label_leakage_risk,no,no,no,agreement
+17,random,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+17,random,F10,bias_free_claim_without_measure,no,no,no,agreement
+17,random,F11,superiority_claim_without_numbers,no,yes,no,"borderline, decided by first author"
+17,random,F12,explainability,not mentioned,not mentioned,not mentioned,agreement
+17,random,F13,explanations_evaluated,no,no,no,agreement
+26,random,F1,label_explanation,not explained,partly explained,not explained,first pass upheld
+26,random,F2,circular_or_proxy_label,yes,yes,yes,agreement
+26,random,F3,own_label_reliability_discussed,no,no,no,agreement
+26,random,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+26,random,F5,data_source,not stated or unclear,not stated or unclear,not stated or unclear,agreement
+26,random,F6,validation_design,not reported,not reported,not reported,agreement
+26,random,F7,internal_inconsistency,clear,none,clear,first pass upheld
+26,random,F8,label_leakage_risk,no,yes,yes,"borderline, decided by first author"
+26,random,F9,accuracy_ge_0_99_without_discussion,yes,no,no,blind code upheld
+26,random,F10,bias_free_claim_without_measure,no,no,no,agreement
+26,random,F11,superiority_claim_without_numbers,no,no,no,agreement
+26,random,F12,explainability,proxy,not mentioned,claimed without a method,neither
+26,random,F13,explanations_evaluated,no,no,no,agreement
+30,random,F1,label_explanation,not explained,partly explained,partly explained,blind code upheld
+30,random,F2,circular_or_proxy_label,no,no,no,agreement
+30,random,F3,own_label_reliability_discussed,no,no,no,agreement
+30,random,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+30,random,F5,data_source,not stated or unclear,public benchmark dataset,public benchmark dataset,blind code upheld
+30,random,F6,validation_design,random hold-out split,random hold-out split,random hold-out split,agreement
+30,random,F7,internal_inconsistency,clear,none,clear,first pass upheld
+30,random,F8,label_leakage_risk,no,no,no,agreement
+30,random,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+30,random,F10,bias_free_claim_without_measure,no,yes,yes,blind code upheld
+30,random,F11,superiority_claim_without_numbers,no,no,no,agreement
+30,random,F12,explainability,not mentioned,claimed without a method,claimed without a method,blind code upheld
+30,random,F13,explanations_evaluated,no,no,no,agreement
+36,random,F1,label_explanation,not explained,explained,not explained,first pass upheld
+36,random,F2,circular_or_proxy_label,no,yes,no,first pass upheld
+36,random,F3,own_label_reliability_discussed,no,yes,no,first pass upheld
+36,random,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+36,random,F5,data_source,public benchmark dataset,public benchmark dataset,public benchmark dataset,agreement
+36,random,F6,validation_design,"test set mentioned, formation not described",not reported,"test set mentioned, formation not described",first pass upheld
+36,random,F7,internal_inconsistency,clear,minor,clear,first pass upheld
+36,random,F8,label_leakage_risk,no,yes,yes,"borderline, decided by first author"
+36,random,F9,accuracy_ge_0_99_without_discussion,no,yes,no,first pass upheld
+36,random,F10,bias_free_claim_without_measure,no,yes,no,first pass upheld
+36,random,F11,superiority_claim_without_numbers,no,yes,no,first pass upheld
+36,random,F12,explainability,not mentioned,not mentioned,not mentioned,agreement
+36,random,F13,explanations_evaluated,no,no,no,agreement
+53,random,F1,label_explanation,explained,not explained,explained,first pass upheld
+53,random,F2,circular_or_proxy_label,no,no,no,agreement
+53,random,F3,own_label_reliability_discussed,no,no,no,agreement
+53,random,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+53,random,F5,data_source,survey/questionnaire,survey/questionnaire,survey/questionnaire,agreement
+53,random,F6,validation_design,k-fold cross-validation,hold-out split + cross-validation,k-fold cross-validation,first pass upheld
+53,random,F7,internal_inconsistency,none,none,none,agreement
+53,random,F8,label_leakage_risk,no,no,no,agreement
+53,random,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+53,random,F10,bias_free_claim_without_measure,no,no,no,agreement
+53,random,F11,superiority_claim_without_numbers,no,no,no,agreement
+53,random,F12,explainability,not mentioned,not mentioned,not mentioned,agreement
+53,random,F13,explanations_evaluated,no,no,no,agreement
+93,added for rare codes,F1,label_explanation,partly explained,explained,partly explained,"borderline, decided by first author"
+93,added for rare codes,F2,circular_or_proxy_label,no,no,no,agreement
+93,added for rare codes,F3,own_label_reliability_discussed,yes,no,no,"borderline, decided by first author"
+93,added for rare codes,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+93,added for rare codes,F5,data_source,"real organization, named or placed","real organization, named or placed","real organization, named or placed",agreement
+93,added for rare codes,F6,validation_design,random hold-out split,"test set mentioned, formation not described",random hold-out split,"borderline, decided by first author"
+93,added for rare codes,F7,internal_inconsistency,clear,none,clear,first pass upheld
+93,added for rare codes,F8,label_leakage_risk,no,no,no,agreement
+93,added for rare codes,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+93,added for rare codes,F10,bias_free_claim_without_measure,no,no,no,agreement
+93,added for rare codes,F11,superiority_claim_without_numbers,no,no,no,agreement
+93,added for rare codes,F12,explainability,proxy,not mentioned,not mentioned,blind code upheld
+93,added for rare codes,F13,explanations_evaluated,no,no,no,agreement
+96,added for rare codes,F1,label_explanation,not explained,not explained,not explained,agreement
+96,added for rare codes,F2,circular_or_proxy_label,no,yes,yes,blind code upheld
+96,added for rare codes,F3,own_label_reliability_discussed,no,yes,no,first pass upheld
+96,added for rare codes,F4,motivation_criticizes_rater_subjectivity,no,yes,yes,blind code upheld
+96,added for rare codes,F5,data_source,"real organization, named or placed","real organization, unnamed","real organization, named or placed",first pass upheld
+96,added for rare codes,F6,validation_design,random hold-out split,"test set mentioned, formation not described","test set mentioned, formation not described",blind code upheld
+96,added for rare codes,F7,internal_inconsistency,clear,minor,clear,first pass upheld
+96,added for rare codes,F8,label_leakage_risk,no,yes,yes,blind code upheld
+96,added for rare codes,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+96,added for rare codes,F10,bias_free_claim_without_measure,no,yes,yes,"borderline, decided by first author"
+96,added for rare codes,F11,superiority_claim_without_numbers,yes,yes,yes,agreement
+96,added for rare codes,F12,explainability,proxy,not mentioned,not mentioned,blind code upheld
+96,added for rare codes,F13,explanations_evaluated,no,no,no,agreement
+133,random,F1,label_explanation,not explained,not explained,not explained,agreement
+133,random,F2,circular_or_proxy_label,no,yes,no,first pass upheld
+133,random,F3,own_label_reliability_discussed,no,no,no,agreement
+133,random,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+133,random,F5,data_source,survey/questionnaire,survey/questionnaire,survey/questionnaire,agreement
+133,random,F6,validation_design,"test set mentioned, formation not described",not reported,"test set mentioned, formation not described",first pass upheld
+133,random,F7,internal_inconsistency,clear,none,clear,first pass upheld
+133,random,F8,label_leakage_risk,no,no,no,agreement
+133,random,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+133,random,F10,bias_free_claim_without_measure,no,no,no,agreement
+133,random,F11,superiority_claim_without_numbers,no,yes,yes,"borderline, decided by first author"
+133,random,F12,explainability,not mentioned,not mentioned,not mentioned,agreement
+133,random,F13,explanations_evaluated,no,no,no,agreement
+134,random,F1,label_explanation,partly explained,partly explained,partly explained,agreement
+134,random,F2,circular_or_proxy_label,yes,no,yes,first pass upheld
+134,random,F3,own_label_reliability_discussed,no,yes,no,first pass upheld
+134,random,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+134,random,F5,data_source,not stated or unclear,"real organization, unnamed",not stated or unclear,first pass upheld
+134,random,F6,validation_design,random hold-out split,random hold-out split,random hold-out split,agreement
+134,random,F7,internal_inconsistency,clear,none,clear,first pass upheld
+134,random,F8,label_leakage_risk,yes,no,yes,first pass upheld
+134,random,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+134,random,F10,bias_free_claim_without_measure,no,no,no,agreement
+134,random,F11,superiority_claim_without_numbers,no,no,no,agreement
+134,random,F12,explainability,not mentioned,not mentioned,not mentioned,agreement
+134,random,F13,explanations_evaluated,no,no,no,agreement
+164,random,F1,label_explanation,not explained,not explained,not explained,agreement
+164,random,F2,circular_or_proxy_label,no,no,no,agreement
+164,random,F3,own_label_reliability_discussed,no,yes,no,first pass upheld
+164,random,F4,motivation_criticizes_rater_subjectivity,no,yes,no,first pass upheld
+164,random,F5,data_source,not stated or unclear,not stated or unclear,not stated or unclear,agreement
+164,random,F6,validation_design,"test set mentioned, formation not described","test set mentioned, formation not described","test set mentioned, formation not described",agreement
+164,random,F7,internal_inconsistency,clear,clear,clear,agreement
+164,random,F8,label_leakage_risk,yes,no,yes,first pass upheld
+164,random,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+164,random,F10,bias_free_claim_without_measure,no,no,no,agreement
+164,random,F11,superiority_claim_without_numbers,no,no,no,agreement
+164,random,F12,explainability,proxy,proxy,proxy,agreement
+164,random,F13,explanations_evaluated,no,no,no,agreement
+165,added for rare codes,F1,label_explanation,partly explained,explained,partly explained,first pass upheld
+165,added for rare codes,F2,circular_or_proxy_label,no,yes,no,first pass upheld
+165,added for rare codes,F3,own_label_reliability_discussed,no,no,no,agreement
+165,added for rare codes,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+165,added for rare codes,F5,data_source,"real organization, unnamed","real organization, unnamed","real organization, unnamed",agreement
+165,added for rare codes,F6,validation_design,random hold-out split,random hold-out split,random hold-out split,agreement
+165,added for rare codes,F7,internal_inconsistency,clear,none,clear,first pass upheld
+165,added for rare codes,F8,label_leakage_risk,no,yes,yes,blind code upheld
+165,added for rare codes,F9,accuracy_ge_0_99_without_discussion,yes,yes,yes,agreement
+165,added for rare codes,F10,bias_free_claim_without_measure,no,no,no,agreement
+165,added for rare codes,F11,superiority_claim_without_numbers,yes,yes,yes,agreement
+165,added for rare codes,F12,explainability,not mentioned,formal method output,proxy,neither
+165,added for rare codes,F13,explanations_evaluated,no,no,no,agreement
+179,random,F1,label_explanation,not explained,partly explained,not explained,first pass upheld
+179,random,F2,circular_or_proxy_label,no,yes,no,first pass upheld
+179,random,F3,own_label_reliability_discussed,no,no,no,agreement
+179,random,F4,motivation_criticizes_rater_subjectivity,yes,yes,yes,agreement
+179,random,F5,data_source,not stated or unclear,"real organization, unnamed",not stated or unclear,first pass upheld
+179,random,F6,validation_design,"test set mentioned, formation not described",k-fold cross-validation,k-fold cross-validation,"borderline, decided by first author"
+179,random,F7,internal_inconsistency,clear,clear,clear,agreement
+179,random,F8,label_leakage_risk,no,no,no,agreement
+179,random,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+179,random,F10,bias_free_claim_without_measure,yes,no,yes,first pass upheld
+179,random,F11,superiority_claim_without_numbers,no,yes,yes,blind code upheld
+179,random,F12,explainability,claimed without a method,formal method output,claimed without a method,first pass upheld
+179,random,F13,explanations_evaluated,no,no,no,agreement
+198,random,F1,label_explanation,partly explained,explained,partly explained,first pass upheld
+198,random,F2,circular_or_proxy_label,no,no,no,agreement
+198,random,F3,own_label_reliability_discussed,no,no,no,agreement
+198,random,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+198,random,F5,data_source,public benchmark dataset,public benchmark dataset,public benchmark dataset,agreement
+198,random,F6,validation_design,random hold-out split,random hold-out split,random hold-out split,agreement
+198,random,F7,internal_inconsistency,minor,none,minor,first pass upheld
+198,random,F8,label_leakage_risk,no,no,no,agreement
+198,random,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+198,random,F10,bias_free_claim_without_measure,no,no,no,agreement
+198,random,F11,superiority_claim_without_numbers,no,yes,no,first pass upheld
+198,random,F12,explainability,not mentioned,not mentioned,not mentioned,agreement
+198,random,F13,explanations_evaluated,no,no,no,agreement
+209,random,F1,label_explanation,explained,not explained,explained,first pass upheld
+209,random,F2,circular_or_proxy_label,no,no,no,agreement
+209,random,F3,own_label_reliability_discussed,no,no,no,agreement
+209,random,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+209,random,F5,data_source,"real organization, named or placed",survey/questionnaire,"real organization, named or placed",first pass upheld
+209,random,F6,validation_design,not reported,temporal validation,not reported,first pass upheld
+209,random,F7,internal_inconsistency,none,none,none,agreement
+209,random,F8,label_leakage_risk,no,no,no,agreement
+209,random,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+209,random,F10,bias_free_claim_without_measure,no,no,no,agreement
+209,random,F11,superiority_claim_without_numbers,no,no,no,agreement
+209,random,F12,explainability,not mentioned,not mentioned,not mentioned,agreement
+209,random,F13,explanations_evaluated,no,no,no,agreement
+253,random,F1,label_explanation,explained,partly explained,partly explained,blind code upheld
+253,random,F2,circular_or_proxy_label,no,no,no,agreement
+253,random,F3,own_label_reliability_discussed,no,no,no,agreement
+253,random,F4,motivation_criticizes_rater_subjectivity,no,no,no,agreement
+253,random,F5,data_source,"real organization, named or placed","real organization, unnamed","real organization, named or placed",first pass upheld
+253,random,F6,validation_design,"test set mentioned, formation not described",not reported,"test set mentioned, formation not described",first pass upheld
+253,random,F7,internal_inconsistency,clear,none,clear,first pass upheld
+253,random,F8,label_leakage_risk,no,yes,no,"borderline, decided by first author"
+253,random,F9,accuracy_ge_0_99_without_discussion,no,no,no,agreement
+253,random,F10,bias_free_claim_without_measure,no,no,no,agreement
+253,random,F11,superiority_claim_without_numbers,no,no,no,agreement
+253,random,F12,explainability,formal method output,proxy,formal method output,first pass upheld
+253,random,F13,explanations_evaluated,no,no,no,agreement
